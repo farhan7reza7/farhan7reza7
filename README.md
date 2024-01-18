@@ -1,32 +1,32 @@
-## Hi there, I'm Farhan Reza, the creator of [diff-ymd-package](https://github.com/farhan7reza7/diff-ymd-package.git) 👋
+## Hi there, I'm Farhan Reza, the creator of [`diff-ymd-package`](https://github.com/farhan7reza7/diff-ymd-package.git) 👋
 
 ### About Me:
 I'm a dedicated software developer committed for refining my skills and efforting for crafting impactful solutions for the betterment of our community. My developments span over a variety of technologies, including TypeScript, JavaScript, Python, MERN stack, React, React Native, jQuery, HTML, CSS, CSS-in-JS, YAML, Webpack, Vite, Markdown, jsDoc, DevTools, and Django.
 
 ### Published Packages:
-- **diff-ymd-package:** Hoping you to explore my JavaScript package providing versatile APIs to calculate date differences in various formats like `(aYears bMonths cDays)` or `(aY bM cD)`. Examples include `age = 20Y 2M 23D` or `datesDifference = 2Years 11Months 20Days`. See `diff-ymd-package` on [npm registry](https://www.npmjs.com/package/diff-ymd-package) and [GitHub package registry](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).
+- **`diff-ymd-package:`** Hoping you to explore my JavaScript package providing versatile APIs to calculate date differences in various formats like `(aYears bMonths cDays)` or `(aY bM cD)`. Examples include `age = 20Y 2M 23D` or `datesDifference = 2Years 11Months 20Days`. See `diff-ymd-package` on [`npm registry`](https://www.npmjs.com/package/diff-ymd-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).
 
 ### Open Source Contributions:
 I actively contribute to open source projects, believing in the power of collaboration and shared knowledge and development.
 
 ### Showcase Project: `diff-ymd-package`
-My latest contribution for our community is the **diff-ymd-package**, a JavaScript package that empowers developers to effortlessly calculate date differences in a variety of customizable formats. From determining age to calculating specific date intervals, this package has garnered attention on both [npm registry](https://www.npmjs.com/package/diff-ymd-package) and [GitHub package registry](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).
+My latest contribution for our community is the **`diff-ymd-package`**, a `JavaScript package` that empowers developers to effortlessly calculate date differences in a variety of customizable formats. From determining age to calculating specific date intervals, this package has garnered attention on both [`npm registry`](https://www.npmjs.com/package/diff-ymd-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).
 
-### 🌟 Why diff-ymd-package?
+### 🌟 Why `diff-ymd-package`?
 - **Intuitive API:** Simplifying date difference calculations in a readable and customizable manner.
 - **Cross-Platform Compatibility:** Seamlessly integrates with JavaScript projects on various platforms.
 - **Positive Community Impact:** Worth trusting and can be used by developers worldwide.
 
 ### My Tools and Technologies:
 
-#### Programming Languages:
+#### `Programming Languages:`
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="" alt="TypeScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="" alt="Python" width="50" height="50"/>
 </p>
 
-#### Frontend:
+#### `Frontend:`
 <p align="left">
   <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-128.png" title="ReactJs" alt="ReactJs" width="50" height="50"/>
   <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" title="React Native" alt="React Native" width="50" height="50"/>
@@ -38,20 +38,20 @@ My latest contribution for our community is the **diff-ymd-package**, a JavaScri
   <img src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-tailwind-css-128.png" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50"/>
 </p>
 
-#### Backend:
+#### `Backend:`
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="NodeJS" title="NodeJS" width="100" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="ExpressJS" title="ExpressJS" width="100" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" title="Django" alt="Django" width="100" height="50"/>
 </p>
 
-#### Databases:
+#### `Databases:`
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="75" height="50"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mongoose.svg" title="Mongoose" alt="Mongoose" width="75" height="50"/>
 </p>
 
-#### Other Tools and Technologies:
+#### `Other Tools and Technologies:`
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" title="Webpack" alt="Webpack" width="50" height="50"/>
   <img src="https://upload.vectorlogo.zone/logos/vitejsdev/images/3bd5fcdd-c2eb-46b4-9232-921c3a6cc7ec.svg" title="Vite" alt="Vite" width="50" height="50"/>

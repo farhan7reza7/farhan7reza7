@@ -1,10 +1,10 @@
 ## Hi there, I'm Farhan Reza, the creator of [`diff-ymd-package`](https://github.com/farhan7reza7/diff-ymd-package.git) 👋
 
 ### About Me:
-I'm a dedicated software developer committed for refining my skills and efforting for crafting impactful solutions for the betterment of our community. My developments span over a variety of technologies, including TypeScript, JavaScript, Python, MERN stack, React, React Native, jQuery, HTML, CSS, CSS-in-JS, YAML, Webpack, Vite, Markdown, jsDoc, DevTools, and Django.
+> I'm a dedicated software developer committed for refining my skills and efforting for crafting impactful solutions for the betterment of our community. My developments span over a variety of technologies, including TypeScript, JavaScript, Python, MERN stack, React, React Native, jQuery, HTML, CSS, CSS-in-JS, YAML, Webpack, Vite, Markdown, jsDoc, DevTools, and Django.
 
 ### Published Packages:
-- **`diff-ymd-package:`** Hoping you to explore my JavaScript package providing versatile APIs to calculate date differences in various formats like `(aYears bMonths cDays)` or `(aY bM cD)`. Examples include `age = 20Y 2M 23D` or `datesDifference = 2Years 11Months 20Days`. See `diff-ymd-package` on [`npm registry`](https://www.npmjs.com/package/diff-ymd-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).
+ **`diff-ymd-package:`** Hoping you to explore my JavaScript package providing versatile APIs to calculate date differences in various formats like `(aYears bMonths cDays)` or `(aY bM cD)`. Examples include `age = 20Y 2M 23D` or `datesDifference = 2Years 11Months 20Days`. See `diff-ymd-package` on [`npm registry`](https://www.npmjs.com/package/diff-ymd-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).
 
 ### Open Source Contributions:
 I actively contribute to open source projects, believing in the power of collaboration and shared knowledge and development.
@@ -12,7 +12,7 @@ I actively contribute to open source projects, believing in the power of collabo
 ### Showcase Project: `diff-ymd-package`
 My latest contribution for our community is the **`diff-ymd-package`**, a `JavaScript package` that empowers developers to effortlessly calculate date differences in a variety of customizable formats. From determining age to calculating specific date intervals, this package has garnered attention on both [`npm registry`](https://www.npmjs.com/package/diff-ymd-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).
 
-### 🌟 Why `diff-ymd-package`?
+#### 🌟 Why `diff-ymd-package`?
 - **Intuitive API:** Simplifying date difference calculations in a readable and customizable manner.
 - **Cross-Platform Compatibility:** Seamlessly integrates with JavaScript projects on various platforms.
 - **Positive Community Impact:** Worth trusting and can be used by developers worldwide.

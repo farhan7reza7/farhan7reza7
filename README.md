@@ -72,6 +72,6 @@ Let's connected and collaborating on exciting projects! Feel free to reach out f
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farhan7reza7-blue)](https://www.linkedin.com/in/farhan7reza7/)
 
 ### Support:
-If you find my works interesting or useful, hoping you to consider supporting me through sponsorship. Your support goes a long way in fueling the community of open source, future projects and contributions.
+If you find my works interesting or useful, hoping you to consider supporting me through sponsorship and contributions. Your support goes a long way in fueling the community of open source, future projects and contributions.
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-Me-green)](https://github.com/sponsors/farhan7reza7)

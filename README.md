@@ -17,7 +17,7 @@ My latest contribution for our community is the **`diff-ymd-package`**, a `JavaS
 - **Cross-Platform Compatibility:** Seamlessly integrates with JavaScript projects on various platforms.
 - **Positive Community Impact:** Worth trusting and can be used by developers worldwide.
 
-### My Tools and Technologies:
+### Tools and Technologies:
 
 #### `Programming Languages:`
 <p align="left">

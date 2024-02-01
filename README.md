@@ -1,4 +1,4 @@
-## Hi there, I'm Farhan Reza, the creator of [`diff-ymd-package`](https://github.com/farhan7reza7/diff-ymd-package.git) and [`if-follow-package`](https://github.com/farhan7reza7/if-follow-package.git) 👋
+## Hi there, I'm Farhan Reza, the developer of [`diff-ymd-package`](https://github.com/farhan7reza7/diff-ymd-package.git) and [`if-follow-package`](https://github.com/farhan7reza7/if-follow-package.git) 👋
 
 ### About Me:
 > I'm a passionate software developer dedicated for refining my skills and efforting for crafting impactful solutions for the betterment of our community. My developments span over a variety of technologies, including TypeScript, JavaScript, Python, MERN stack, React, React Native, jQuery, HTML, CSS, CSS-in-JS, YAML, Webpack, Vite, Markdown, jsDoc, DevTools, and Django.

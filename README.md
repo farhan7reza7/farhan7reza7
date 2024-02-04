@@ -3,15 +3,23 @@
 ### About Me:
 > I'm a passionate software developer dedicated for refining my skills and efforting for crafting impactful solutions for the betterment of our community. My developments span over a variety of technologies, including TypeScript, JavaScript, Python, MERN stack, React, React Native, jQuery, HTML, CSS, CSS-in-JS, YAML, Webpack, Vite, Markdown, jsDoc, DevTools, and Django.
 
-### Published Packages:
+### My GitHub Stats:
+#### Concised
+![Farhan Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7&show_icons=true&theme=radical)
+
+#### Ranked
+![Farhan Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7\&rank_icon=percentile)
+
+#### Detailed
+![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
+### My Published Packages:
  **`diff-ymd-package:`** Hoping you to explore `diff-ymd-package` the JavaScript library providing versatile APIs to calculate date differences in various formats like `(aYears bMonths cDays)` or `(aY bM cD)`. Examples include `age = 20Y 2M 23D` or `datesDifference = 2Years 11Months 20Days`. See `diff-ymd-package` on [`npm registry`](https://www.npmjs.com/package/diff-ymd-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).
 
 **`if-follow-package:`** Hoping you to explore `if-follow-package` which provides versatile APIs `for managing followers and followings on GitHub`. See `if-follow-package` on [`npm registry`](https://www.npmjs.com/package/if-follow-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/if-follow-package). 
 
-### Open Source Contributions:
-I actively contribute to open source projects, believing in the power of collaboration and shared knowledge and development.
-
-### Showcase Projects: 
+### My Showcase Projects: 
 #### 1. `diff-ymd-package`
 My contribution for our community is the **`diff-ymd-package`**, a `JavaScript package` that empowers developers to effortlessly calculate date differences in a variety of customizable formats. From determining age to calculating specific date intervals, this package has garnered attention on both [`npm registry`](https://www.npmjs.com/package/diff-ymd-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).
 
@@ -76,6 +84,9 @@ My latest contribution for our community is the **`if-follow-package`**, a `Java
   <img src="https://img.icons8.com/?size=96&id=emezZ8DDFo8A&format=png" alt="Microsoft Copilot" title="Microsoft Copilot" width="50" height="50"/>
   <img src="https://cdn3.iconfinder.com/data/icons/it-and-user-interface/48/3-dots_icon-128.png" title="etc." alt="etc." width="50" height="50"/>
 </p>
+
+### Open Source Contributions:
+I actively contribute to open source projects, and believing in the power of collaboration, contribution, and shared knowledge and development.
 
 ### Connect with Me:
 Let's connected and collaborating on exciting projects! Feel free to reach out for collaboration, contributions, or just a tech chat.

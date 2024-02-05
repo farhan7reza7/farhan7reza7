@@ -25,8 +25,12 @@
 
 **`if-follow-package:`** Hoping you to explore `if-follow-package` which provides versatile APIs `for managing followers and followings on GitHub`. See `if-follow-package` on [`npm registry`](https://www.npmjs.com/package/if-follow-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/if-follow-package). 
 
-### My Showcase Projects: 
+### My Showcase Projects:
+
 #### 1. `diff-ymd-package`
+
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=farhan7reza7\&repo=diff-ymd-package\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/farhan7reza7/diff-ymd-package.git)
+
 My contribution for our community is the **`diff-ymd-package`**, a `JavaScript package` that empowers developers to effortlessly calculate date differences in a variety of customizable formats. From determining age to calculating specific date intervals, this package has garnered attention on both [`npm registry`](https://www.npmjs.com/package/diff-ymd-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).
 
 ##### 🌟 Why `diff-ymd-package`?
@@ -35,6 +39,8 @@ My contribution for our community is the **`diff-ymd-package`**, a `JavaScript p
 - **Positive Community Impact:** Worth trusting and can be used by developers worldwide.
 
 #### 2. `if-follow-package`
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=farhan7reza7\&repo=if-follow-package\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/farhan7reza7/if-follow-package.git)
+
 My latest contribution for our community is the **`if-follow-package`**, a `JavaScript package` that empowers developers to effortlessly managing followers and followings on GitHub. From `checking users who are not following you back` to `unfollow users who are not following you back`, this package has garnered attention on both [`npm registry`](https://www.npmjs.com/package/if-follow-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/if-follow-package).
 
 ##### 🌟 Why `if-follow-package`?

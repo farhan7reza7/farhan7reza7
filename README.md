@@ -103,6 +103,8 @@ I actively contribute to open source projects, and believing in the power of col
 ### Connect with Me:
 Let's connected and collaborating on exciting projects! Feel free to reach out for collaboration, contributions, or just a tech chat.
 
+[Ask me here](https://github.com/farhan7reza7/farhan7reza7/discussions)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farhan7reza7-blue)](https://www.linkedin.com/in/farhan7reza7/)
 
 ### Support:

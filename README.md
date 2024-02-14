@@ -7,7 +7,7 @@
 #### Concised
 [![Farhan Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7&show_icons=true&theme=radical)](https://github.com/farhan7reza7/if-follow-package.git)
 
-#### Ranked under
+#### Ranked Under
 [![Farhan Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7\&rank_icon=percentile)](https://github.com/farhan7reza7/diff-ymd-package.git)
 
 #### Detailed
@@ -17,6 +17,9 @@
 <div align="center">
 	<a href="https://github.com/farhan7reza7/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan7reza7&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
 </div>
+
+#### Profile Trophies
+![layout](https://github-profile-trophy.vercel.app/?username=farhan7reza7&column=3&margin-w=25&margin-h=20)
 
 
 

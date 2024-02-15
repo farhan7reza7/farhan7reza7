@@ -100,9 +100,6 @@ My latest contribution for our community is the **`if-follow-package`**, a `Java
   <img src="https://cdn3.iconfinder.com/data/icons/it-and-user-interface/48/3-dots_icon-128.png" title="etc." alt="etc." width="50" height="50"/>
 </p>
 
-### Open Source Contributions:
-I actively contribute to open source projects, and believing in the power of collaboration, contribution, and shared knowledge and development.
-
 ### Connect with Me:
 Let's connected and collaborating on exciting projects! Feel free to reach out for collaboration, contributions, or just a tech chat.
 [**`Ask me here`**](https://github.com/farhan7reza7/farhan7reza7/discussions/12)

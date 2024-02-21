@@ -8,10 +8,10 @@
 [![Farhan Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7&show_icons=true&theme=radical)](https://github.com/farhan7reza7/if-follow-package.git)
 
 #### Ranked Under
-[![Farhan Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7\&rank_icon=percentile)](https://github.com/farhan7reza7/diff-ymd-package.git)
+[![Farhan Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7&rank_icon=percentile)](https://github.com/farhan7reza7/diff-ymd-package.git)
 
 #### Detailed
-[![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/farhan7reza7/if-follow-package.git)
+[![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/farhan7reza7/if-follow-package.git)
 
 #### Contributions
 <div align="left">
@@ -32,7 +32,7 @@
 
 #### 1. `diff-ymd-package`
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=farhan7reza7\&repo=diff-ymd-package\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/farhan7reza7/diff-ymd-package.git)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=farhan7reza7&repo=diff-ymd-package&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan7reza7/diff-ymd-package.git)
 
 My contribution for our community is the **`diff-ymd-package`**, a `JavaScript package` that empowers developers to effortlessly calculate date differences in a variety of customizable formats. From determining age to calculating specific date intervals, this package has garnered attention on both [`npm registry`](https://www.npmjs.com/package/diff-ymd-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).
 
@@ -42,7 +42,7 @@ My contribution for our community is the **`diff-ymd-package`**, a `JavaScript p
 - **Positive Community Impact:** Worth trusting and can be used by developers worldwide.
 
 #### 2. `if-follow-package`
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=farhan7reza7\&repo=if-follow-package\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/farhan7reza7/if-follow-package.git)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=farhan7reza7&repo=if-follow-package&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/farhan7reza7/if-follow-package.git)
 
 My latest contribution for our community is the **`if-follow-package`**, a `JavaScript package` that empowers developers to effortlessly managing followers and followings on GitHub. From `checking users who are not following you back` to `unfollow users who are not following you back`, this package has garnered attention on both [`npm registry`](https://www.npmjs.com/package/if-follow-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/if-follow-package).
 

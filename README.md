@@ -13,16 +13,15 @@
 #### Detailed
 [![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/farhan7reza7#detailed)
 
-<!--#### Contributions
+#### Contributions
 <div align="left">
 	<a href="https://github.com/farhan7reza7/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan7reza7&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
-</div>-->
+</div>
 
 #### Trophies
 [![layout](https://github-profile-trophy.vercel.app/?username=farhan7reza7&column=3&margin-w=25&margin-h=20)](https://github.com/farhan7reza7#trophies)
 
 #### Certificates
-
 [![1705879311664](https://github.com/farhan7reza7/farhan7reza7/assets/108195448/b9e5dd10-87b3-4634-9367-1ed50b29272f)](https://www.linkedin.com/learning/certificates/d9e868ba02cbef2ce6e8e30c22891d27a2b760119410bc33b44572f6404b4eeb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvhhJt4zFRnaYJ2ozl%2FO62g%3D%3D)
 
 [![1707761934725](https://github.com/farhan7reza7/farhan7reza7/assets/108195448/ac10d3bc-fbc1-45cc-8b5d-66c268a8517b)](https://www.linkedin.com/learning/certificates/227b10c83f27016c1a39144a87e78090c9f4bc786142573193854925456c8bfc?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvhhJt4zFRnaYJ2ozl%2FO62g%3D%3D)

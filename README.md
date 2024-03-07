@@ -13,11 +13,11 @@
 #### Detailed
 [![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/farhan7reza7#detailed)
 
-<!--#### Contributions
+#### Contributions
 <div align="left">
 	<a href="https://github.com/farhan7reza7/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan7reza7&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
 </div>
--->
+
 #### Trophies
 [![layout](https://github-profile-trophy.vercel.app/?username=farhan7reza7&column=3&margin-w=25&margin-h=20)](https://github.com/farhan7reza7#trophies)
 

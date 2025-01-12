@@ -109,6 +109,7 @@ My latest contribution for our community is the **`if-follow-package`**, a `Java
 Let's connected and collaborating on exciting projects! Feel free to reach out for collaboration, contributions, or just a tech chat.
 [**`Ask me here`**](https://github.com/farhan7reza7/farhan7reza7/discussions/12)
 
+[![Personal Website](https://img.shields.io/badge/Website-farhan7reza.com-blue)](https://www.farhan7reza.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanReza-blue)](https://www.linkedin.com/in/farhan7reza7/)
 
 ### Support:

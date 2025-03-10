@@ -19,7 +19,7 @@
 </div>
 
 #### Trophies
-[![layout](https://github-profile-trophy.vercel.app/?username=farhan7reza7&column=3&margin-w=25&margin-h=20)](https://github.com/farhan7reza7#trophies)
+[![layout](https://github-profile-trophy.vercel.app/?username=farhan7reza7&column=3&margin-w=25&margin-h=20&exclude=experience)](https://github.com/farhan7reza7#trophies)
 
 #### Certificates
 [![1705879311664](https://github.com/farhan7reza7/farhan7reza7/assets/108195448/b9e5dd10-87b3-4634-9367-1ed50b29272f)](https://www.linkedin.com/learning/certificates/d9e868ba02cbef2ce6e8e30c22891d27a2b760119410bc33b44572f6404b4eeb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvhhJt4zFRnaYJ2ozl%2FO62g%3D%3D)

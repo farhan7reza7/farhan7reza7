@@ -1,7 +1,7 @@
 ## Hi there, I'm Farhan Reza, the Developer of [`diff-ymd-package`](https://github.com/farhan7reza7/diff-ymd-package.git) and [`if-follow-package`](https://github.com/farhan7reza7/if-follow-package.git), and [`QuranBookk.com`](https://www.quranbookk.com/) 👋
 
 ### About Me:
-> I'm a passionate software developer `dedicated for efforting` in order to craft impactful solutions for the betterment of our community. My developments span over a variety of technologies, including TypeScript, JavaScript, Python, MERN stack, React, React Native, NextJs, Expo, jQuery, HTML5, CSS3, CSS-in-JS, YAML, Webpack, Vite, Markdown, jsDoc, jest, DevTools, and Django.
+> I'm a passionate software developer `dedicated for efforting` in order to craft impactful solutions for the betterment of the Humanity. My developments span over a variety of technologies, including TypeScript, JavaScript, Python, MERN stack, ReactJs, React Native, NextJs, Expo, jQuery, Tailwind CSS, HTML5, CSS3, CSS-in-JS, YAML, Webpack, Vite, Markdown, jsDoc, jest, DevTools, Django, and more.
 
 ### My GitHub Stats:
 #### Concised
@@ -73,8 +73,9 @@ My latest contribution for our community is the **`if-follow-package`**, a `Java
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jQuery" title="jQuery" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>-->
   <img src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-tailwind-css-128.png" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="50" height="50"/>
 </p>
 
 #### `Backend:`

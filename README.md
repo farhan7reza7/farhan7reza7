@@ -73,7 +73,6 @@ My latest contribution for our community is the **`if-follow-package`**, a `Java
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jQuery" title="jQuery" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
-  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>-->
   <img src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-tailwind-css-128.png" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="50" height="50"/>
 </p>

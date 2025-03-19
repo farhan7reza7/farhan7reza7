@@ -1,7 +1,7 @@
 ## Hi there, I'm Farhan Reza, the Developer of [`diff-ymd-package`](https://github.com/farhan7reza7/diff-ymd-package.git) and [`if-follow-package`](https://github.com/farhan7reza7/if-follow-package.git), and [`QuranBookk.com`](https://www.quranbookk.com/) 👋
 
 ### About Me:
-> I'm a passionate software developer `dedicated for efforting` in order to craft impactful solutions for the betterment of the Humanity. My developments span over a variety of technologies, including TypeScript, JavaScript, Python, MERN stack, ReactJs, React Native, NextJs, Expo, jQuery, Tailwind CSS, HTML5, CSS3, CSS-in-JS, YAML, Webpack, Vite, Markdown, jsDoc, jest, DevTools, Django, and more.
+> I'm a passionate software developer `dedicated for efforting` in order to craft impactful solutions for the betterment of the Humanity. My developments span over a variety of technologies, including TypeScript, JavaScript, Python, MERN stack, ReactJs, React Native, NextJs, Expo, jQuery, Tailwind CSS, HTML5, CSS3, CSS-in-JS, Webpack, Markdown, jsDoc, DevTools, and more.
 
 ### My GitHub Stats:
 #### Concised

@@ -30,6 +30,23 @@
 
 [![1705954682408](https://github.com/farhan7reza7/farhan7reza7/assets/108195448/9197a7c6-d947-411f-9ccf-fc948b48025b)](https://www.linkedin.com/learning/certificates/13013b5a7bce2501bf960b7e9a518d24fb8b55f84e044493bcb1fc2d6d438a2f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvhhJt4zFRnaYJ2ozl%2FO62g%3D%3D)
 -->
+### My Published Top Product:
+ **[`QuranBookk.com:`](https://www.QuranBookk.com)** QuranBookk.com offers a **powerful suite of Quranic and Islamic tools and contents** designed to enhance your daily spiritual journey. With clean UI, multilingual access, and responsive design, it’s the go-to digital Islam and Quran platform for modern Muslims.
+ 
+#### ✨ Key Features:
+
+- 🎧 **[Listen to Top Reciters](https://www.quranbookk.com/quran/audio)** – High-quality audio recitations from world-renowned Qaris  
+- 🎥 **[Watch Quran Videos](https://www.quranbookk.com/quran/video)** – Inspirational Quranic recitation and learning videos  
+- 🌍 **[Read Top Translations](https://www.quranbookk.com/quran/translations)** – Multiple language support with leading Quran translations  
+- 🕋 **[Qibla Direction Finder](https://www.quranbookk.com/qibla-finder)** – Accurate Kaaba direction from anywhere in the world  
+- 🕰️ **[Islamic Prayer Times](https://www.quranbookk.com/prayer-times)** – Updated Salah timings based on your current location  
+- 📿 **[Digital Tasbih Counter](https://www.quranbookk.com/digital-tasbih)** – Count your Dhikr anytime, anywhere  
+- 📚 **[Authentic Hadith Collections](https://www.quranbookk.com/hadiths/hadiths-sources)** – Sahih Bukhari, Sahih Muslim, and more  
+- 🕯️ **[Top Quranic Duas](https://www.quranbookk.com/quran/ayats)** – Beautiful supplications with translations  
+- 🔍 **[Advanced Quran Search](https://www.quranbookk.com/quran/search)** – Search verses, words, topics in seconds  
+- 📖 **[Explore Surahs](https://www.quranbookk.com/quran/surahs)** – Full Quran access with audio, video, and translations
+- 📖 **[Explore Juzs (Paras)](https://www.quranbookk.com/quran/juzs)** – Full Quran access with audio, video, and translations
+  
 ### My Published Packages:
  **`diff-ymd-package:`** Hoping you to explore `diff-ymd-package` the JavaScript library providing versatile APIs to calculate date differences in various formats like `(aYears bMonths cDays)` or `(aY bM cD)`. Examples include `age = 20Y 2M 23D` or `datesDifference = 2Years 11Months 20Days`. See `diff-ymd-package` on [`npm registry`](https://www.npmjs.com/package/diff-ymd-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).
 

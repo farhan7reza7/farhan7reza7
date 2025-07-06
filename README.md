@@ -37,7 +37,7 @@
 
 - 🎧 **[Listen to Top Reciters](https://www.quranbookk.com/quran/audio)** – High-quality audio recitations from world-renowned Qaris  
 - 🎥 **[Watch Quran Videos](https://www.quranbookk.com/quran/video)** – Inspirational Quranic recitation and learning videos  
-- 🌍 **[Read Top Translations](https://www.quranbookk.com/quran/translations)** – Multiple language support with leading Quran translations  
+- 🌍 **[Read Quran Top Translations](https://www.quranbookk.com/quran/translations)** – Multiple language support with leading Quran translations  
 - 🕋 **[Qibla Direction Finder](https://www.quranbookk.com/qibla-finder)** – Accurate Kaaba direction from anywhere in the world  
 - 🕰️ **[Islamic Prayer Times](https://www.quranbookk.com/prayer-times)** – Updated Salah timings based on your current location  
 - 📿 **[Digital Tasbih Counter](https://www.quranbookk.com/digital-tasbih)** – Count your Dhikr anytime, anywhere  

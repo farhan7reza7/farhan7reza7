@@ -51,6 +51,7 @@
 - 🔍 **[Advanced Quran Search](https://www.quranbookk.com/quran/search)** – Search verses, words, topics in seconds  
 - 📖 **[Explore Surahs](https://www.quranbookk.com/quran/surahs)** – Full Quran access with audio, video, and translations
 - 📖 **[Explore Juzs (Paras)](https://www.quranbookk.com/quran/juzs)** – Full Quran access with audio, video, and translations
+- ⚡ **[Internet Speed Test](https://www.quranbookk.com/internet-speed-tester)** – Get correct download, upload and ping speeds instantly
   
 ### My Published Packages:
  **`diff-ymd-package:`** Hoping you to explore `diff-ymd-package` the JavaScript library providing versatile APIs to calculate date differences in various formats like `(aYears bMonths cDays)` or `(aY bM cD)`. Examples include `age = 20Y 2M 23D` or `datesDifference = 2Years 11Months 20Days`. See `diff-ymd-package` on [`npm registry`](https://www.npmjs.com/package/diff-ymd-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).

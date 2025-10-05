@@ -48,7 +48,7 @@
 - 🤖 **[Ask Hadith AI](https://www.quranbookk.com/ask-hadith-ai)** – AI-powered assistant for Hadiths
 - 📚 **[Authentic Hadith Collections](https://www.quranbookk.com/hadiths/hadiths-sources)** – Sahih Bukhari, Sahih Muslim, and more  
 - 🕯️ **[Top Quranic Duas](https://www.quranbookk.com/quran/ayats)** – Beautiful supplications with translations  
-- 🔍 **[Advanced Quran Search](https://www.quranbookk.com/quran/search)** – Search verses, words, topics in seconds  
+- 🔍 **[Advanced Quran Search](https://www.farhan7reza.com/search-quran)** – Search verses, words, topics in seconds  
 - 📖 **[Explore Surahs](https://www.quranbookk.com/quran/surahs)** – Full Quran access with audio, video, and translations
 - 📖 **[Explore Juzs (Paras)](https://www.quranbookk.com/quran/juzs)** – Full Quran access with audio, video, and translations
 - ⚡ **[Internet Speed Test](https://www.quranbookk.com/internet-speed-tester)** – Get correct download, upload and ping speeds instantly

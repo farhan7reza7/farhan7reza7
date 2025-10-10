@@ -8,7 +8,7 @@
 [![Farhan Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7&show_icons=true&theme=radical)](https://github.com/farhan7reza7#concised)
 
 #### Ranked Under
-[![committers.top badge](https://user-badge.committers.top/india/farhan7reza7.svg)](https://user-badge.committers.top/india/farhan7reza7)
+<!--[![committers.top badge](https://user-badge.committers.top/india/farhan7reza7.svg)](https://user-badge.committers.top/india/farhan7reza7)-->
 
 [![Farhan Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan7reza7&rank_icon=percentile)](https://github.com/farhan7reza7#ranked-under)
 

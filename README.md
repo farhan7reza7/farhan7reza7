@@ -31,12 +31,13 @@
 [![1705954682408](https://github.com/farhan7reza7/farhan7reza7/assets/108195448/9197a7c6-d947-411f-9ccf-fc948b48025b)](https://www.linkedin.com/learning/certificates/13013b5a7bce2501bf960b7e9a518d24fb8b55f84e044493bcb1fc2d6d438a2f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvhhJt4zFRnaYJ2ozl%2FO62g%3D%3D)
 -->
 ### My Published Top Product:
- **[`QuranBookk.com:`](https://www.QuranBookk.com)** QuranBookk.com offers a **powerful suite of Quranic and Islamic tools and contents** designed to enhance your daily spiritual journey. With clean UI, multilingual access, and responsive design, it’s the go-to digital Islam and Quran platform for modern Muslims.
+**[`QuranBookk.com:`](https://www.QuranBookk.com)** QuranBookk.com offers a **powerful suite of Quranic and Islamic tools and contents** designed to enhance your daily spiritual journey. With clean UI, multilingual access, and responsive design, it’s the go-to digital Islam and Quran platform for modern Muslims.
  
 #### ✨ Key Features:
 
 - 🎧 **[Listen to Top Reciters](https://www.quranbookk.com/quran/audio)** – High-quality audio recitations from world-renowned Qaris  
-- 🎥 **[Watch Quran Videos](https://www.quranbookk.com/quran/video)** – Inspirational Quranic recitation and learning videos  
+- 🎥 **[Watch Quran Videos](https://www.quranbookk.com/quran/video)** – Inspirational Quranic recitation and learning videos
+- 🔍 **[Advanced Quran Search](https://www.quranbookk.com/search-quran)** – Find verses, words, and topics from the Holy Quran in seconds
 - 🌍 **[Read Quran Top Translations](https://www.quranbookk.com/quran/translations)** – Multiple language support with leading Quran translations  
 - 🕋 **[Qibla Direction Finder](https://www.quranbookk.com/qibla-finder)** – Accurate Kaaba direction from anywhere in the world
 - 🕋 **[Worldwide Qibla Directions](https://www.quranbookk.com/qibla-finder/worldwide)** – Accurate Kaaba direction from any country, state, or city of the world    
@@ -51,8 +52,24 @@
 - 🔍 **[Advanced Quran Search](https://www.farhan7reza.com/search-quran)** – Search verses, words, topics in seconds  
 - 📖 **[Explore Surahs](https://www.quranbookk.com/quran/surahs)** – Full Quran access with audio, video, and translations
 - 📖 **[Explore Juzs (Paras)](https://www.quranbookk.com/quran/juzs)** – Full Quran access with audio, video, and translations
-- ⚡ **[Internet Speed Test](https://www.quranbookk.com/internet-speed-tester)** – Get correct download, upload and ping speeds instantly
-  
+- 🌙 **[99 Names of Allah](https://www.quranbookk.com/99-names-of-allah)** – Explore the beautiful names of Allah with Arabic text, audio, meanings, and transliteration
+
+**[`Farhan7Reza.com:`](https://www.Farhan7Reza.com)** Farhan7Reza.com offers a **powerful suite of Day to Day usable important tools and contents** designed to enhance your Day to Day important requirements finding easy. With clean UI, multilingual access, and responsive design, it’s the go-to digital Day to Day usable platform for modern People.
+ 
+#### ✨ Key Features:
+
+- ⚡ **[Internet Speed Test](https://www.farhan7reza.com/internet-speed-test)** – Test your internet speed for free! Check download, upload speeds & ping instantly
+- 🎮 **[AI TicTacToe Game](https://www.farhan7reza.com/tic-tac-toe-game)** – Play online with smart AI bots or challenge your friends
+- 📅 **[Menstrual Cycle Tracker](https://www.farhan7reza.com/menstrual-cycle-tracker)** – Free period tracker & ovulation calculator with menstrual cycle calendar
+- 💖 **[Fertility Tracker](https://www.farhan7reza.com/fertility-tracker)** – Track your ovulation & fertile window for free online
+- 👶 **[Pregnancy Due Date Finder](https://www.farhan7reza.com/pregnancy-due-date-finder)** – Calculate your baby's due date & pregnancy week instantly
+- 💕 **[Love Compatibility Finder](https://www.farhan7reza.com/love-compatibility-finder)** – Free relationship match test to check love compatibility
+- 🍀 **[Daily Luck Finder](https://www.farhan7reza.com/luck-finder)** – Discover your daily luck score with free numerology calculator
+- ⭐ **[Zodiac Sign Finder](https://www.farhan7reza.com/zodiac-sign-finder)** – Find your Rashi & horoscope sign by birth date
+- 🎂 **[Age Calculator](https://www.farhan7reza.com/age-finder)** – Calculate your exact age in years, months & days online
+- 📊 **[Date Analyzer](https://www.farhan7reza.com/date-analyzer)** – Free astrology & numerology date analysis online
+- ⏳ **[Dates Duration Calculator](https://www.farhan7reza.com/dates-difference-calculator)** – Calculate days, months & years between two dates
+
 ### My Published Packages:
  **`diff-ymd-package:`** Hoping you to explore `diff-ymd-package` the JavaScript library providing versatile APIs to calculate date differences in various formats like `(aYears bMonths cDays)` or `(aY bM cD)`. Examples include `age = 20Y 2M 23D` or `datesDifference = 2Years 11Months 20Days`. See `diff-ymd-package` on [`npm registry`](https://www.npmjs.com/package/diff-ymd-package) and [`GitHub package registry`](https://github.com/farhan7reza7/diff-ymd-package/pkgs/npm/diff-ymd-package).
 
